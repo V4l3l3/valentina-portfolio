@@ -1,0 +1,52 @@
+[33mcommit de5428ba775e00ac48e69e33b32e2111b36a80bc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: V4l3l3 <leonval@kean.edu>
+Date:   Tue Oct 22 01:39:09 2024 -0400
+
+    Initial commit
+
+ .env                                     |     1 [32m+[m
+ .gitignore                               |    23 [32m+[m
+ README.md                                |    70 [32m+[m
+ package-lock.json                        | 19819 [32m+++++++++++++++++++++++++++++[m
+ package.json                             |    42 [32m+[m
+ public/index.html                        |    12 [32m+[m
+ src/App.jsx                              |    26 [32m+[m
+ src/assets/Cover Letter 2024.pdf         |   Bin [31m0[m -> [32m21804[m bytes
+ src/assets/Cropped-look.jpg              |   Bin [31m0[m -> [32m231847[m bytes
+ src/assets/Dublin.jpg                    |   Bin [31m0[m -> [32m47002[m bytes
+ src/assets/IMG_0277.jpg                  |   Bin [31m0[m -> [32m1423941[m bytes
+ src/assets/Research.pdf                  |   Bin [31m0[m -> [32m45813[m bytes
+ src/assets/Resume 2024.pdf               |   Bin [31m0[m -> [32m53812[m bytes
+ src/assets/bg-texture.png                |   Bin [31m0[m -> [32m2892[m bytes
+ src/assets/business_card.png             |   Bin [31m0[m -> [32m647540[m bytes
+ src/assets/cropped_image_2.png           |   Bin [31m0[m -> [32m541282[m bytes
+ src/assets/evosuite.png                  |   Bin [31m0[m -> [32m50523[m bytes
+ src/assets/quince_stand.png              |   Bin [31m0[m -> [32m180279[m bytes
+ src/assets/rockstar.jpg                  |   Bin [31m0[m -> [32m392446[m bytes
+ src/assets/sixflags.png                  |   Bin [31m0[m -> [32m205734[m bytes
+ src/assets/sixflags_bigger.png           |   Bin [31m0[m -> [32m393755[m bytes
+ src/assets/slavic_club.png               |   Bin [31m0[m -> [32m8284[m bytes
+ src/assets/slavic_club_flyer.doc.pdf     |   Bin [31m0[m -> [32m237915[m bytes
+ src/assets/tennesee_poolside.png         |   Bin [31m0[m -> [32m324582[m bytes
+ src/assets/tennessee_berry.png           |   Bin [31m0[m -> [32m496378[m bytes
+ src/components/about/About.jsx           |    59 [32m+[m
+ src/components/about/about.css           |   110 [32m+[m
+ src/components/chatbot/Chatbot.jsx       |    83 [32m+[m
+ src/components/chatbot/chatbot.css       |    54 [32m+[m
+ src/components/contact/Contact.jsx       |    52 [32m+[m
+ src/components/contact/contact.css       |    75 [32m+[m
+ src/components/experience/Experience.jsx |   113 [32m+[m
+ src/components/experience/experience.css |    71 [32m+[m
+ src/components/footer/Footer.jsx         |    35 [32m+[m
+ src/components/footer/footer.css         |    66 [32m+[m
+ src/components/header/CTA.jsx            |    13 [32m+[m
+ src/components/header/Header.jsx         |    27 [32m+[m
+ src/components/header/HeaderSocials.jsx  |    16 [32m+[m
+ src/components/header/header.css         |   118 [32m+[m
+ src/components/nav/Nav.jsx               |    66 [32m+[m
+ src/components/nav/nav.css               |    34 [32m+[m
+ src/components/portfolio/Portfolio.jsx   |    97 [32m+[m
+ src/components/portfolio/portfolio.css   |    50 [32m+[m
+ src/index.css                            |   138 [32m+[m
+ src/index.js                             |    11 [32m+[m
+ 45 files changed, 21281 insertions(+)
